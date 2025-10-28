@@ -1,0 +1,10 @@
+﻿  C001-输出平方根.c
+D:\Git Repository\VS C语言入门\第二周\1-C001-输出平方根\C001-输出平方根.c(7,19): warning C4474: scanf_s: 格式字符串中传递的参数太多
+      D:\Git Repository\VS C语言入门\第二周\1-C001-输出平方根\C001-输出平方根.c(7,19):
+      占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+D:\Git Repository\VS C语言入门\第二周\1-C001-输出平方根\C001-输出平方根.c(13,21): warning C4474: scanf_s: 格式字符串中传递的参数太多
+      D:\Git Repository\VS C语言入门\第二周\1-C001-输出平方根\C001-输出平方根.c(13,21):
+      占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+  1-C001-输出平方根.vcxproj -> D:\Git Repository\VS C语言入门\第二周\x64\Debug\1-C001-输出平方根.exe

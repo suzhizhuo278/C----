@@ -1,0 +1,6 @@
+﻿  C007-找出m到n之间的所有同构数.c
+D:\Git Repository\VS C语言入门\第二周\4-C007-找出m到n之间的所有同构数\C007-找出m到n之间的所有同构数.c(18,27): warning C4474: scanf_s: 格式字符串中传递的参数太多
+      D:\Git Repository\VS C语言入门\第二周\4-C007-找出m到n之间的所有同构数\C007-找出m到n之间的所有同构数.c(18,27):
+      占位符和其参数预计 2 可变参数，但提供的却是 4 参数
+  
+  4-C007-找出m到n之间的所有同构数.vcxproj -> D:\Git Repository\VS C语言入门\第二周\x64\Debug\4-C007-找出m到n之间的所有同构数.exe

@@ -1,0 +1,6 @@
+﻿  B2025_Diamond.c.cpp
+D:\Git Repository\VS C语言入门\输出字符菱形\B2025_Diamond.c.cpp(4,9): warning C4129: “ ：: 不可识别的字符转义序列
+D:\Git Repository\VS C语言入门\输出字符菱形\B2025_Diamond.c.cpp(5,9): warning C4129: “ ：: 不可识别的字符转义序列
+D:\Git Repository\VS C语言入门\输出字符菱形\B2025_Diamond.c.cpp(7,9): warning C4129: “ ：: 不可识别的字符转义序列
+D:\Git Repository\VS C语言入门\输出字符菱形\B2025_Diamond.c.cpp(8,9): warning C4129: “ ：: 不可识别的字符转义序列
+  输出字符菱形.vcxproj -> D:\Git Repository\VS C语言入门\GrammarLearning\x64\Debug\输出字符菱形.exe

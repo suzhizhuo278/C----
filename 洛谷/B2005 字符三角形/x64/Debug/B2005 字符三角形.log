@@ -1,0 +1,10 @@
+﻿  B2005 字符三角形.c
+D:\Git Repository\VS C语言入门\B2005 字符三角形\B2005 字符三角形.c(5,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\Git Repository\VS C语言入门\B2005 字符三角形\B2005 字符三角形.c(5,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\Git Repository\VS C语言入门\B2005 字符三角形\B2005 字符三角形.c(5,10):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      D:\Git Repository\VS C语言入门\B2005 字符三角形\B2005 字符三角形.c(5,10):
+      此参数用作缓冲区大小
+  
+  B2005 字符三角形.vcxproj -> D:\Git Repository\VS C语言入门\GrammarLearning\x64\Debug\B2005 字符三角形.exe
